@@ -6,6 +6,7 @@ This repo contains a solution for a code exercise. The test question can be foun
 
 1. `npm install`
 2. `npm run dev`
+   
 
 ## Pages
 
